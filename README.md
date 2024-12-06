@@ -30,6 +30,9 @@ TensorFlow for providing the frameworks used.
 CIFAR-10 dataset creators.
 The open-source community for helpful tutorials and resources.
 
+##ModelDeployment
+https://huggingface.co/spaces/sudoambrose/CNN_App
+
 ## Getting Started
 ### Prerequisites
 List any software or dependencies required to run the project.
